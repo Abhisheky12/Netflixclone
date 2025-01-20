@@ -1,0 +1,29 @@
+.player{
+    height:90vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    margin-top: 10vh;
+}
+.player button{
+    padding: 12px 24px;
+    font-size: 1.5rem;
+    margin-top:5vh ;
+    border-radius: 25px;
+}
+.player iframe{
+    border-radius:10px;
+}
+.player-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+    width:90%;
+    margin-top: 2vh;
+    margin-bottom: 4vh;
+}
+.player-info span{
+    color: red;
+}
