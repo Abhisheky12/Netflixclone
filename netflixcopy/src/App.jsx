@@ -66,7 +66,6 @@ const App = () => {
       path:"/popular",
       element:
       <>
-      
       <Newpopular/>
       </>
     },
